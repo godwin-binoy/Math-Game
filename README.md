@@ -8,3 +8,5 @@ A command line based math game coded in python
 - Answer the questios suitably
 
 Enter 'exit' to exit program. Enter 'restart' to restart program
+
+Author: https://github.com/Godwin-Binoy 
