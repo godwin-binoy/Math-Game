@@ -9,4 +9,4 @@ A command line based math game coded in python
 
 Enter 'exit' to exit program. Enter 'restart' to restart program
 
-Author : @godwin-binoy
+Author : github.com/godwin-binoy
