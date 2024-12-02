@@ -18,7 +18,7 @@ The Math Game is a command-line Python application designed to help users practi
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/math-game.git
+   git clone https://github.com/godwin-binoy/math-game.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -99,3 +99,5 @@ Enjoy playing and improving your math skills!
 
 ## Author :
 https://www.github.com/godwin-binoy
+
+---
