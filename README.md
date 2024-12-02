@@ -97,4 +97,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 Enjoy playing and improving your math skills!
 
 
-## Author : https://www.github.com/godwin-binoy
+## Author :
+https://www.github.com/godwin-binoy
