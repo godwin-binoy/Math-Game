@@ -59,7 +59,7 @@ while True :
 		user_input = int(user_input)
 		if user_input == answer :
 			score += 1
-            print(f'Correct! Your score : {score}')
+                    print(f'Correct! Your score : {score}')
 		else :
 			print(f'\nYou loss ! \nAnswer is {answer}\nYour score : {score}\n\nEnter to restart')
 			user_input = input('  : ')
