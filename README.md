@@ -92,7 +92,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Acknowledgments
 - Thanks to the open-source community for inspiration and guidance.
 
----
+
 
 Enjoy playing and improving your math skills!
 
